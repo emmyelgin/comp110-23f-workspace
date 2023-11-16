@@ -1,0 +1,5 @@
+"""First memory diagram"""
+
+name: str = "Emerson"
+print ("hello " + name)
+print ("bye " + name)
